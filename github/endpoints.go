@@ -1,4 +1,4 @@
-package main
+package github
 
 var (
 	EndpointGitHub = "https://api.github.com"

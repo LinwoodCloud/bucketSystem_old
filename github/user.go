@@ -1,7 +1,6 @@
-package main
+package github
 
 type User struct {
 	ID        string
-	Biography string
 	AvatarURL string
 }
